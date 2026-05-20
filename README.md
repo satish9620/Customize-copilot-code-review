@@ -4,7 +4,14 @@
 
 Hey satish9620!
 
+copilot/improve-pull-request-quality
+- **Who is this for**: Intermediate; best for developers or reviewers using Copilot to assess and improve pull request quality.
+- **What you'll learn**: How to use GitHub Copilot for automated code reviews, customize review criteria, and set up automatic reviews
+- **What you'll build**: You'll update the Mergington High School extracurricular activities website and customize Copilot to automatically review pull requests for you, enabling more teachers to contribute.
+- **Prerequisites**:
+
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+ main
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
