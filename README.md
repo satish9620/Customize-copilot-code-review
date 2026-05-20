@@ -4,7 +4,7 @@ _Leverage GitHub Copilot code review to promote code quality and catch issues be
 
 ## Welcome
 
-- **Who is this for**: Developers familiar with GitHub Copilot who want to scale code review
+- **Who is this for**: Intermediate; best for developers or reviewers using Copilot to assess and improve pull request quality.
 - **What you'll learn**: How to use GitHub Copilot for automated code reviews, customize review criteria, and set up automatic reviews
 - **What you'll build**: You'll update the Mergington High School extracurricular activities website and customize Copilot to automatically review pull requests for you, enabling more teachers to contribute.
 - **Prerequisites**:
